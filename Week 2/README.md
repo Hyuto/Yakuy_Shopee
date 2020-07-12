@@ -3,6 +3,7 @@ Tensorflow Keras Model<br>
 ResNet50 : Acc = 0.99 , Val_acc = 0.91<br>
 Final Score : 0.738<br>
 Link Model : <a href='https://drive.google.com/file/d/1-5H5ayFjygmFH4d-7qV2VwbQ7VSbtDMZ/view?usp=sharing'>ResNet50</a><br>
+Data : <a href="https://drive.google.com/file/d/1gF5S_whd6IVlzteyKuAvO32HpCqV0eya/view?usp=sharing">Disini</a><br>
 Kekurangan : <strong>Overfit</strong>
 ## Model Preparation
 ```
