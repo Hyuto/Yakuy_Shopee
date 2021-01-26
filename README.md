@@ -11,8 +11,3 @@ Lomba_Yakuy
 5. Week 5 : Logistics : <strong>Done</strong>
 6. Week 6 : Sentiment Analisis : <strong>Done</strong>
 7. Week 7 : Hacker Earth Chellenge #2 : <strong>Done & Fail Again</strong> Awkwk
-
-## To Do
-
-1. Cari Ide buat Week 3 Awkwk
-2. Improve Week 6 model & cari cara yang efektif untuk Embedding textnya
