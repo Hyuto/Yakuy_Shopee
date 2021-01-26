@@ -1,4 +1,7 @@
-# Highest Mountains
+#############################
+#     Highest Mountains     #
+#############################
+
 def Sequence(lst): 
     res = [[(lst[0], 0)]]
     res1 = [[(lst[0], 0)]]
@@ -53,7 +56,11 @@ for z in range(int(input())):
         else:
             print('Case #{0}: {1} {2}'.format(z + 1, down_seq[0][0], down_seq[0][1]))
 
-# Conectivity
+
+#############################
+#        Conectivity        #
+#############################
+
 def find_path(graph, start, end, path=[]):
     path = path + [start]
     if start == end:

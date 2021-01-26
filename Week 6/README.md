@@ -1,12 +1,18 @@
 # Sentiment Analisis ~ Week 6
+
 ## Task
+
 Mengelompokkan text menjadi 5 kelompok sentiment.
+
 ## Data
+
 1. `train.csv` : Main train dataset
 2. `test.csv` : Main test dataset
 3. `test lama.csv` : Test dataset sebelum di revisi
 4. `Submission Lama.csv` : Submission test dataset lama sebelum direvisi [Accuracy = 1]
+
 ## Hal yang Udah Dicoba
+
 1. Frature Extraction using Bag of Words & TF-IDF, Modelling dengan Logistic Regression, dll. <br>`Accuracy` : 0.35 ~ 0.39
 2. `Bert TF-Hub` with and without text preprocessing.
 <br>`Accuracy` : 0.38 ~ 0.4

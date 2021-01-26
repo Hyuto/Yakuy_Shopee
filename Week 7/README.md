@@ -1,6 +1,9 @@
 # Shopee Programming Contest 2
-Complete 1.5 dari 5 soal:
+
+Selesai 1.5 dari 5 soal:
+
 ## 1. Highest Mountains
+
 ### Desc
 Victor is assigned a task for planning quarterly team outings in Shopee. He is trying to organize an outdoor activity to climb the highest mountain among a mountain range. However, it is difficult to tell which mountain is the highest in the mountain range from a distance. Help Victor to identify the highest mountain given the height of the mountains.
 
@@ -38,7 +41,9 @@ SAMPLE INPUT
 1
 1
 ```
+
 ### Output
+
 Integer specifying the height (H) of the highest mountain and index (I) of the peak. If there are multiple mountains with the same height, return the leftmost mountain.
 If the height or index is not available, return -1. Return the result for each case with format “Case #{N}: H I”
 
@@ -52,8 +57,11 @@ Case #5: -1 -1
 Case #6: 1 0
 ```
 ### Note : Lancar tanpa error
+
 ## 2. Conectivity
+
 ### Desc
+
 In Shopee Data Center, there are many switches and some of the switches are interconnected to form a network. Sometimes, we add a new connection to the network and if we find that there is some issue, we may remove the last added connections. You will need to solve a similar problem.
 
 You are given an empty network with N switches (numbered 1 to N) and no connections between switches. You will also face Q scenarios in chronological order. Each scenario can be any of the following:
@@ -63,13 +71,18 @@ PUSH u v : You have to add a new connection between switches u and v. (u ≠ v, 
 POP : From all the connections currently present in the network, remove the one that was added most recently. There will be at least one connection in the network when this scenario is given.
 
 Also, after performing the operation in each scenario, print the number of connected components formed by the switches in this network.
+
 ### Input
+
 The first line of test case begins with integer 
+
 ```
 Q (1 <= Q <= 5 * 105)
 N (1 <= N <= 5 * 105) 
 ```
+
 indicating the number of scenarions and number of switches in the network. Next, Q lines will each contain a scenario as described above.
+
 ```
 SAMPLE INPUT
 12 5
@@ -87,7 +100,9 @@ POP
 POP
 ```
 ### Output
+
 For each query, you will need to print the answer in a separate line.
+
 ```
 SAMPLE OUTPUT
 4
@@ -103,4 +118,5 @@ SAMPLE OUTPUT
 4
 5
 ```
+
 ### Note : Kayaknya kena limit waktu deh wkwk
