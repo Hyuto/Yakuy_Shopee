@@ -1,13 +1,19 @@
-# Yakuy_Shopee
+# Yakuy - Shopee Code League 2020 [Student]
 
-Lomba_Yakuy
+Kode tim **Yakuy** di Shopee Code League 2020
 
 ## Progress
 
-1. Week 1 : Order Brush : <strong>Done</strong>
-2. Week 2 : Product Detection : <strong>Done</strong>
-3. Week 3 : Hacker Earth Chellenge : <strong>Done & Fail</strong> wkwk
-4. Week 4 : <strong>Gak sempet wkwk</strong>
-5. Week 5 : Logistics : <strong>Done</strong>
-6. Week 6 : Sentiment Analisis : <strong>Done</strong>
-7. Week 7 : Hacker Earth Chellenge #2 : <strong>Done & Fail Again</strong> Awkwk
+| Week | Lomba | Ket |
+|  --  | ----- | --- |
+|  1   | Order Brush | Done |
+|  2   | Product Detection | 0.73812 |
+|  3   | Hacker Earth Challenge | Done & Fail XD |
+|  4   | Product Translation | Gak Sempet |
+|  5   | Logistics | 0.65706 |
+|  6   | Sentiment Analysis | 0.51278 |
+|  7   | Hacker Earth Challenge #2 | Done & Fail again XD |
+
+## Note
+
+Akurasi pada ket adalah hasil akhir / hasil `D - Day Code` yang mungkin sudah ada versi optimizednya pada folder project

@@ -1,6 +1,12 @@
 # Order Brush
 
-## Main idea:
+## D - Day Code
+
+```
+Yakuy - Code - Student.ipynb
+```
+
+### Main idea:
 
 1. Mengelompokkan ID berdasarkan Toko
 2. Looping berdasarkan nama toko
@@ -9,11 +15,17 @@
 5. Reverse Sorting
 6. Answer
 
-## Keunggulan:
+Keunggulan:
 
 1. Cukup teliti
 
-## Kelemahan:
+Kelemahan:
 
 1. Butuk banyak waktu.
 2. Hasil Kurang maksimal
+   
+## Optimized Code
+
+```
+Order Brusing.ipynb
+```
